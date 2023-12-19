@@ -1,5 +1,5 @@
 # Greylock
-Greylock is my custom macropad that I built for fun. Each key and enocder can be programmed to any input or script. 
+Greylock is my custom macropad that I built for fun. Each key and encoder can be programmed to any input or script. 
 
 
 ### Housing
